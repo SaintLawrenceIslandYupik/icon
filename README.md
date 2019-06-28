@@ -16,7 +16,7 @@
    Mac icon file, created from the directory of scaled images using this command:
    
    ```bash
-   iconutil -c icns Dvorak\ Yupik\ IPA.iconset
+   iconutil -c icns icon.iconset
    ```
 
 4. `sli.png`
